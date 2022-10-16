@@ -7,14 +7,14 @@
 Take special note on choosing the correct horseshoes for your frame type. The difference between frame types is important, as each have their own mounting approach; while the difference between solid or hollow core horseshows is down to cost vs. weight.
 
 ### CS:R TexMex/COM8 frames
-- Shims Only
-- Solid Core Horseshoes & Shims
-- Hollow Core Horseshoes & Shims
+- [Shims Only](https://cart.sendcutsend.com/hqgtz1vyk6st)
+- [Solid Core Horseshoes & Shims](https://cart.sendcutsend.com/lu9tagkpk3gc)
+- [Hollow Core Horseshoes & Shims](https://cart.sendcutsend.com/s1y3wkek8ggz)
 
 ### CS:R Solaris frames
-- Shims Only
-- Solid Core Horseshoes & Shims
-- Hollow Core Horseshoes & Shims
+- [Shims Only](https://cart.sendcutsend.com/06gqfsxkvarc)
+- [Solid Core Horseshoes & Shims](https://cart.sendcutsend.com/nofifqr6yzxm)
+- [Hollow Core Horseshoes & Shims](https://cart.sendcutsend.com/xk94gsrzztin)
 
 
 ## Horseshoe Assembly Guides
