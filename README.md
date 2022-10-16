@@ -17,7 +17,7 @@ Take special note on choosing the correct horseshoes for your frame type. The di
 - Hollow Core Horseshoes & Shims
 
 
-## Assembling Horseshoes
+## Horseshoe Assembly Guides
 
 ### [TexMex/COM8 Horseshoe Guide](https://github.com/drolsen/r2d2-horseshoes-shims/wiki/Solaris-Horseshoe-Assembling)
 
