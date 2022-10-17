@@ -4,7 +4,7 @@
 
 ## Choosing Aluminum Cuts
 
-Take special note on choosing the correct horseshoes for your frame type. The difference between a frame types is important, as each have their own mounting approach; while the difference between solid or hollow core horseshows is down to preference.
+Take special care on choosing the correct horseshoes for your frame type. The difference between frame types is ver important as each have their own mounting approach. The difference between solid or hollow core horseshoes on the other hand is down to preference.
 
 **Before you start ordering cuts PLEASE ensure that these fit your legs by going [here to "Tests"](https://github.com/drolsen/r2d2-horseshoes-shims/tree/master/tests) and printing both shoe and shim PDFs (for your frame type) off on a sheet of 8x11 paper and test fit to your legs.**
 
