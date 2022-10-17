@@ -1,6 +1,7 @@
 # Aluminum R2D2 Astromech Horseshoes &amp; Shims
 
 <img src="/resources/images/intro.jpg" width="480" />
+<sub>(Note: picture above does not represent current ordered cuts and is of a ealier version)</sub>
 
 ## Choosing Aluminum Cuts
 
