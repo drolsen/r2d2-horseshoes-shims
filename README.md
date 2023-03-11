@@ -1,6 +1,7 @@
 # Aluminum R2D2 Astromech Horseshoes &amp; Shims
 
 <img src="/resources/images/intro.jpg" width="480" />
+<sub>(Note: picture above does not represent current ordered cuts and is of a ealier version)</sub>
 
 ## Choosing Aluminum Cuts
 
@@ -23,6 +24,6 @@ Please also note that I (as a single builder) do not own all the frame types, bu
 
 ## Horseshoe Assembly Guides
 
-### [TexMex/COM8 Horseshoe Guide](https://github.com/drolsen/r2d2-horseshoes-shims/wiki/Solaris-Horseshoe-Assembling)
+### [TexMex/COM8 Horseshoe Guide](https://github.com/drolsen/r2d2-horseshoes-shims/wiki/TexMex-COM8-Assembling)
 
-### [Solaris frames Horseshoe Guide](https://github.com/drolsen/r2d2-horseshoes-shims/wiki/TexMex-COM8-Assembling)
+### [Solaris frames Horseshoe Guide](https://github.com/drolsen/r2d2-horseshoes-shims/wiki/Solaris-Horseshoe-Assembling)
